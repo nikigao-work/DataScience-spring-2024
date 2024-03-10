@@ -1,8 +1,8 @@
 # DataScience-spring-2024
 Репозиторий создан для студентов РАНХиГС, которые начинают погружение в Data Science. ◕‿◕ <br />
 
-Ссылки на каналы: <<br />
-* [<img src="https://i.ytimg.com/vi/Ou_xCYJJQFA/hqdefault_live.jpg" width="50">]('') - Youtube курса (будет добавлен позже) <br />
+Ссылки на каналы: <br />
+* [<img src="https://media.baamboozle.com/uploads/images/560023/1641930615_20137_url.png" width="50">]('') - Youtube курса (будет добавлен позже) <br />
 * [<img src="https://anwap.space/wp-content/uploads/2023/12/telegram.png" width="50">](https://t.me/ds_journey) - telegram курса <br />
 ___
 
