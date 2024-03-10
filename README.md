@@ -1,7 +1,7 @@
 # DataScience-spring-2024
 Репозиторий создан для студентов РАНХиГС, которые начинают погружение в Data Science. ◕‿◕
 ___
-[![Youtube](https://sun6-21.userapi.com/s/v1/if1/ahjgKYS2r634w2Lz_Wl9RoD40XpZV6nrikjgGSjntqOOmgaQiZZPm3FWRpkq7Tcvh8AEcvrR.jpg?size=100x100&quality=96&crop=2,2,495,495&ava=1)]('') - Youtube курса (будет добавлен позже)
+[<img src="https://sun6-21.userapi.com/s/v1/if1/ahjgKYS2r634w2Lz_Wl9RoD40XpZV6nrikjgGSjntqOOmgaQiZZPm3FWRpkq7Tcvh8AEcvrR.jpg?size=100x100&quality=96&crop=2,2,495,495&ava=1" width="30">]('') - Youtube курса (будет добавлен позже)
 [![tg](https://anwap.space/wp-content/uploads/2023/12/telegram.png)](https://t.me/ds_journey) - telegram курса
 ___
 
